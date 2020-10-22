@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Shoes in Bitcoin</title>
-    <link>https://shoesinbitcoin.com/tags/</link>
+    <link>https://shoesinbitcoin.github.io/tags/</link>
     <description>Recent content in Tags on Shoes in Bitcoin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 13 Oct 2020 22:17:44 +0200</lastBuildDate>
     
-	<atom:link href="https://shoesinbitcoin.com/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://shoesinbitcoin.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>ui</title>
-      <link>https://shoesinbitcoin.com/tags/ui/</link>
+      <link>https://shoesinbitcoin.github.io/tags/ui/</link>
       <pubDate>Tue, 13 Oct 2020 22:17:44 +0200</pubDate>
       
-      <guid>https://shoesinbitcoin.com/tags/ui/</guid>
+      <guid>https://shoesinbitcoin.github.io/tags/ui/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ux</title>
-      <link>https://shoesinbitcoin.com/tags/ux/</link>
+      <link>https://shoesinbitcoin.github.io/tags/ux/</link>
       <pubDate>Tue, 13 Oct 2020 22:17:44 +0200</pubDate>
       
-      <guid>https://shoesinbitcoin.com/tags/ux/</guid>
+      <guid>https://shoesinbitcoin.github.io/tags/ux/</guid>
       <description></description>
     </item>
     

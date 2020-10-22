@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ux on Shoes in Bitcoin</title>
-    <link>https://shoesinbitcoin.com/tags/ux/</link>
+    <link>https://shoesinbitcoin.github.io/tags/ux/</link>
     <description>Recent content in ux on Shoes in Bitcoin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 13 Oct 2020 22:17:44 +0200</lastBuildDate>
     
-	<atom:link href="https://shoesinbitcoin.com/tags/ux/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://shoesinbitcoin.github.io/tags/ux/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>asdasd Expert</title>
-      <link>https://shoesinbitcoin.com/jobs/post2/</link>
+      <link>https://shoesinbitcoin.github.io/jobs/post2/</link>
       <pubDate>Tue, 13 Oct 2020 22:17:44 +0200</pubDate>
       
-      <guid>https://shoesinbitcoin.com/jobs/post2/</guid>
+      <guid>https://shoesinbitcoin.github.io/jobs/post2/</guid>
       <description>JOB POST HERE</description>
     </item>
     
     <item>
       <title>UI / UX Expert</title>
-      <link>https://shoesinbitcoin.com/jobs/post1/</link>
+      <link>https://shoesinbitcoin.github.io/jobs/post1/</link>
       <pubDate>Tue, 13 Oct 2020 22:17:44 +0200</pubDate>
       
-      <guid>https://shoesinbitcoin.com/jobs/post1/</guid>
+      <guid>https://shoesinbitcoin.github.io/jobs/post1/</guid>
       <description>JOB POST HERE</description>
     </item>
     
