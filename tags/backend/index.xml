@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Jobs on Shoes in Bitcoin</title>
-    <link>https://shoesinbitcoin.github.io/jobs/</link>
-    <description>Recent content in Jobs on Shoes in Bitcoin</description>
+    <title>backend on Shoes in Bitcoin</title>
+    <link>https://shoesinbitcoin.github.io/tags/backend/</link>
+    <description>Recent content in backend on Shoes in Bitcoin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 13 Oct 2020 22:17:44 +0200</lastBuildDate>
     
-	<atom:link href="https://shoesinbitcoin.github.io/jobs/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://shoesinbitcoin.github.io/tags/backend/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -27,15 +27,6 @@
       
       <guid>https://shoesinbitcoin.github.io/jobs/post3/</guid>
       <description>Experience in teams including project managers, designers, and business development Experience with Node.js using web server based frameworks such as Express or Sails Programming experience (min 3+ years development) Experience in enterprise level Node.JS programming Experience and understanding of cloud deployments and micro services approach to build applications Good understanding of typical web application, SOA and micro-services patterns Good Object Oriented analysis and design Experience in reporting at scale Trong proficiency with JavaScript</description>
-    </item>
-    
-    <item>
-      <title>UI / UX Expert</title>
-      <link>https://shoesinbitcoin.github.io/jobs/post1/</link>
-      <pubDate>Tue, 13 Oct 2020 22:17:44 +0200</pubDate>
-      
-      <guid>https://shoesinbitcoin.github.io/jobs/post1/</guid>
-      <description>JOB POST HERE</description>
     </item>
     
   </channel>
