@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Shoes in Bitcoin</title>
+    <link>https://shoesinbitcoin.com/tags/</link>
+    <description>Recent content in Tags on Shoes in Bitcoin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 13 Oct 2020 22:17:44 +0200</lastBuildDate>
+    
+	<atom:link href="https://shoesinbitcoin.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ui</title>
+      <link>https://shoesinbitcoin.com/tags/ui/</link>
+      <pubDate>Tue, 13 Oct 2020 22:17:44 +0200</pubDate>
+      
+      <guid>https://shoesinbitcoin.com/tags/ui/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ux</title>
+      <link>https://shoesinbitcoin.com/tags/ux/</link>
+      <pubDate>Tue, 13 Oct 2020 22:17:44 +0200</pubDate>
+      
+      <guid>https://shoesinbitcoin.com/tags/ux/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
