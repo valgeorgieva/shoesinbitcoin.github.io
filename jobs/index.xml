@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jobs on Shoes in Bitcoin</title>
-    <link>https://shoesinbitcoin.github.io/jobs/</link>
+    <link>https://shoesinbitcoin.com/jobs/</link>
     <description>Recent content in Jobs on Shoes in Bitcoin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 13 Oct 2020 22:17:44 +0200</lastBuildDate>
     
-	<atom:link href="https://shoesinbitcoin.github.io/jobs/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://shoesinbitcoin.com/jobs/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>NodeJS Fullstack Developer</title>
-      <link>https://shoesinbitcoin.github.io/jobs/post2/</link>
+      <link>https://shoesinbitcoin.com/jobs/post2/</link>
       <pubDate>Tue, 13 Oct 2020 22:17:44 +0200</pubDate>
       
-      <guid>https://shoesinbitcoin.github.io/jobs/post2/</guid>
+      <guid>https://shoesinbitcoin.com/jobs/post2/</guid>
       <description> Good JavaScript front-end/back-end development experience Experience writing and running automated tests including, but not limited to, integration and unit Experience in creating and deploying cloud based web applications Experience in collaborating with other in a software development team and conforming to standard practices and code guidelines Experience debugging Node.js, profiling memory and cpu usage Experience deploying Node.js into production and scaling applications beyond single instances  </description>
     </item>
     
     <item>
       <title>Senior NodeJS Fullstack Developer</title>
-      <link>https://shoesinbitcoin.github.io/jobs/post3/</link>
+      <link>https://shoesinbitcoin.com/jobs/post3/</link>
       <pubDate>Tue, 13 Oct 2020 22:17:44 +0200</pubDate>
       
-      <guid>https://shoesinbitcoin.github.io/jobs/post3/</guid>
+      <guid>https://shoesinbitcoin.com/jobs/post3/</guid>
       <description> Experience in teams including project managers, designers, and business development Experience with Node.js using web server based frameworks such as Express or Sails Programming experience (min 3+ years development) Experience in enterprise level Node.JS programming Experience and understanding of cloud deployments and micro services approach to build applications Good understanding of typical web application, SOA and micro-services patterns Good Object Oriented analysis and design Experience in reporting at scale Strong proficiency with JavaScript  </description>
     </item>
     
     <item>
       <title>UI / UX Expert</title>
-      <link>https://shoesinbitcoin.github.io/jobs/post1/</link>
+      <link>https://shoesinbitcoin.com/jobs/post1/</link>
       <pubDate>Tue, 13 Oct 2020 22:17:44 +0200</pubDate>
       
-      <guid>https://shoesinbitcoin.github.io/jobs/post1/</guid>
+      <guid>https://shoesinbitcoin.com/jobs/post1/</guid>
       <description>Responsibilities:  Understand product specifications and user psychology Conduct concept and usability testing and gather feedback Create personas through user research and data Define the right interaction model and evaluate its success Develop wireframes and prototypes around customer needs Find creative ways to solve UX problems (e.g. usability, findability) Work with UI designers to implement attractive designs Communicate design ideas and prototypes to developers Keep abreast of competitor products and industry trends  Requirements:  Proven experience as a UX Designer, UI Designer or similar role Strong portfolio of design projects Background in project management and research Familiarity with interaction design and information architecture Proficient in design software (e.</description>
     </item>
     
